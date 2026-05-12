@@ -87,20 +87,19 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>DATA ANALYTICS</h3>
+              <h4>Turning Data Into Business Decisions</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                I analyze supply chain data to uncover trends, patterns and insights that help businesses make smarter, faster decisions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Power BI</div>
+                <div className="what-tags">Excel</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">Data Visualization</div>
+                <div className="what-tags">Supply Chain Analytics</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +123,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>SUPPLY CHAIN</h3>
+              <h4>Optimizing Operations With Data</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                I analyze business data to uncover hidden trends, patterns and 
+insights — transforming raw numbers into clear visual dashboards 
+and reports that drive smarter, faster decision making.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
+                <div className="what-tags">Demand Forecasting</div>
                 <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">Inventory Analysis</div>
+                <div className="what-tags">Procurement Analytics</div>
+                <div className="what-tags">Market Trends</div>
+                <div className="what-tags">Dashboard Reporting</div>
+                <div className="what-tags">Business Intelligence</div>
               </div>
               <div className="what-arrow"></div>
             </div>

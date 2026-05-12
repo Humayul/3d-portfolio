@@ -5,33 +5,33 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
+    title: "Maven Market Analysis",
+    category: "Supply Chain & Market Analytics",
+    tools: "Power BI, Excel, Data Visualization, Trend Analysis",
     image: "/images/callhq.png",
-    link: "https://callhq.ai",
-  },
-  {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
+    link: "https://github.com/Humayul/-My-Projects/tree/main/Maven_market_analysis_Report",
+},
+{
+    title: "Engr Corporation Report",
+    category: "Business Intelligence Dashboard",
+    tools: "Power BI, Excel, Data Visualization, Reporting",
     image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
-  },
-  {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
+    link: "https://github.com/Humayul/-My-Projects/tree/main/Engr%20Corporation%20Dashboard",
+},
+{
+    title: "D Smart Sales Report",
+    category: "Sales Analytics & Dashboard",
+    tools: "Excel, Power BI, Data Analysis, Visualization",
     image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
+    link: "https://github.com/Humayul/-My-Projects/tree/main/D%20Smart%20Sales%20Dashboard",
+},
+{
+    title: "Spotify Analysis Report",
+    category: "Data Analysis & Visualization",
+    tools: "Python, Excel, Data Visualization, Trend Analysis",
     image: "/images/orrdr.png",
-    link: "https://orrdr.com",
-  },
+    link: "https://github.com/Humayul/-My-Projects/tree/main/Spotify%20Analysis%20Report",
+},
 ];
 
 const Work = () => {
